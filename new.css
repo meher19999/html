@@ -1,0 +1,39 @@
+*{ 
+    margin: 0;
+
+}
+h1{
+    margin: 2%;
+    padding: 3%;
+    background-color: rgba(167, 107, 18, 0.797);
+    color: brown;
+}
+#restimg{
+    margin: 2%;
+    padding: 1%;
+    border: 1px solid black;
+
+}
+#about{ 
+ 
+
+    padding: 2%;
+background-color: rgba(167, 107, 18, 0.797); 
+}
+h2{
+margin: 2%;
+}
+#cnct{
+    margin: 2%;
+    padding: 2%;
+background-color: rgba(167, 107, 18, 0.797); 
+
+}
+p{
+    margin: 2%;
+    color: rgb(47, 28, 4); 
+    
+}
+body{
+    background-color: rgb(220, 175, 120)!important;
+}
